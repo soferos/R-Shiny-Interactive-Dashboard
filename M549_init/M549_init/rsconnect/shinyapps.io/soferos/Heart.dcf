@@ -1,0 +1,12 @@
+name: Heart
+title: Heart
+username:
+account: soferos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3788112
+bundleId: 4343707
+url: https://soferos.shinyapps.io/Heart/
+when: 1615750036.66329
+asMultiple: FALSE
+asStatic: FALSE
